@@ -1,7 +1,4 @@
 Hello World!
 This is a test.
 File is changed.
-Ok again
-Allright
-One more time
-OK
+Yes!!
